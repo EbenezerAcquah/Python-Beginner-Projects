@@ -24,7 +24,9 @@ def generate_password(length):
     # Return the completed password
     return password
 
-print("==== PASSWORD GENERATOR ====")
+
+
+print("==== PASSWORD GENERATOR ====") 
 
 try:
 
